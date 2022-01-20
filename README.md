@@ -20,7 +20,7 @@ Welcome to the world of forensics in Cybersecurity.
 * [Data visualization](#data-visualization)
 * [Online security and privacy](#online-security-and-privacy)
 * [List of sources per country](#list-of-sources-per-country)
-* [Miscellaneous](#miscellaneous)
+* [Web Links](#web-links)
 
 
 ## `Collections of tools`
