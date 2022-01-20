@@ -1,6 +1,6 @@
 
-# Cybersecurity Anti Forensics
-Welcome to the world of forensics in Cybersecurity.
+# Digital Forensics
+Welcome to the world of digital forensics in Cybersecurity.
 > A collection of digital forensics tools for verification, investigations, diagnostics, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
