@@ -1,8 +1,15 @@
 
-# Digital Forensics
+# Digital Forensics and Cybersecurity
 Welcome to the world of digital forensics in Cybersecurity.
-> A collection of digital forensics tools for verification, investigations, diagnostics, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity.
+> A collection of digital forensics tools for verification, investigations, diagnostics, software, libraries, learning tutorials, frameworks, academic and practical resources in Cybersecurity. 
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+
+## What is Digital Forensics?
+
+- Computers are increasingly being used in criminal activity. From fraud to violent crime, computers are often found to play a significant role as a tool for planning and conducting a crime, and may contain relevant evidence pertaining to an offence. 
+
+
+- **Digital forensics is a branch of forensic science that focuses on identifying, acquiring, processing, analysing, and reporting on data stored electronically. Electronic evidence is a component of almost all criminal activities and digital forensics support is crucial for law enforcement investigations.**
 
 
 ## `Table of contents / Содержание`
