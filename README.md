@@ -594,4 +594,13 @@ Welcome to the world of forensics in Cybersecurity.
 | [Xplico](https://github.com/xplico/xplico)                                                           | Internet Traffic Decoder. Network Forensic Analysis Tool (NFAT).                                                                                                                                                                |
 | [XsUSBsentinel](https://github.com/thereisnotime/xxusbsentinel)                                      | Windows anti-forensics USB monitoring tool.                                                                                                                                                                                     |
 | [Zeroize](https://github.com/iqlusioninc/crates/tree/main/zeroize)                                   | Zeroize is a rust library enabling to : Securely clear secrets from memory with a simple trait built on stable Rust primitives which guarantee memory is zeroed using an operation will not be ‘optimized away’ by the compiler |
-| [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/zipdump.py)                | ZIP dump utility.                                                                                                                                                            
+| [ZipDump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/zipdump.py)                | ZIP dump utility.  
+
+
+
+**[`^        back to top        ^`](#)**
+
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
