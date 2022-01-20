@@ -5,7 +5,7 @@ Welcome to the world of forensics in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-### Table of contents / Содержание
+## `Table of contents / Содержание`
 * [Collections](#collections-of-tools)
 * [Satellite and mapping services](#satellite-and-mapping-services)
 * [Geobased searches](#geobased-searches)
@@ -23,10 +23,10 @@ Welcome to the world of forensics in Cybersecurity.
 * [Miscellaneous](#miscellaneous)
 
 
-# Collections of tools
+## `Collections of tools`
 - OSINT Tools [osintframework.com](http://osintframework.com) - huge collection of open source intelligence tools
 
-# Satellite and mapping services
+## `Satellite and mapping services`
 
 -   Bing Maps, satellite and mapping service, has more recent and
     sharper imagery than Google in several areas such as Iraq,
@@ -76,7 +76,7 @@ Welcome to the world of forensics in Cybersecurity.
     [yandex.ru](http://www.yandex.ru) 
 
 
-# Geobased searches
+# `Geobased searches`
 -   (\$) Echosec, [echosec.net](http://www.echosec.net) (Instagram,
     Twitter, VK, Foursquare)
 -   LiveUAmap, aggregated open source information,
@@ -103,13 +103,13 @@ Welcome to the world of forensics in Cybersecurity.
     geocode:36.222285,43.998233,2km (only works with km, so 500m =
     0.5km)
 
-# Documents metadata
+# `Documents metadata`
 - Hachoir3 [https://github.com/haypo/hachoir3] (https://github.com/haypo/hachoir3). Python library for metadata extraction from binary streams including MS Office documents
 - Forensic wiki [list of metadata extractors](http://www.forensicswiki.org/wiki/Document_Metadata_Extraction)
 - Metadata extractor [github](https://github.com/drewnoakes/metadata-extractor)
 
-# Images, videos and metadata
-## Image and videos tools
+# `Images, videos and metadata`
+## `Image and videos tools`
 -   Amnesty YouTube Dataviewer, Reverse image (still of video) search
     and exact uploading time,
     [amnestyusa.org/sites/default/custom-scripts/citizenevidence](http://www.amnestyusa.org/sites/default/custom-scripts/citizenevidence/)
@@ -124,7 +124,7 @@ Welcome to the world of forensics in Cybersecurity.
     than Google’s reverse image search,
     [yandex.com/images](https://yandex.com/images/) 
 
-## Photo/video metadata (EXIF and e.t.c.)
+## `Photo/video metadata (EXIF and e.t.c.)`
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
@@ -153,12 +153,12 @@ Welcome to the world of forensics in Cybersecurity.
     [firstdraftnews.com/resource/visual-verification-guide-photos](https://firstdraftnews.com/resource/visual-verification-guide-photos) 
 
 
-# Social media
+# `Social media`
 
 ## Multiple social networks
 -   NacheChk. Same name check over dozens of social networks [namechk.com](https://namechk.com/)
 
-## Facebook
+## `Facebook`
 -   Facebook Scanner, automatically advanced searched for Facebook
     profiles, [stalkscan.com](http://stalkscan.com/)
 -   Facebook Search Tool, find accounts by name, email, screen name and
@@ -179,7 +179,7 @@ Welcome to the world of forensics in Cybersecurity.
 -   peoplefindThor, advanced search tool for Facebook profiles,
     [peoplefindthor.dk](https://peoplefindthor.dk)
 
-## LinkedIn
+## `LinkedIn`
 
 -   Socilab, allows users to visualise and analyse your own LinkedIn
     network,
