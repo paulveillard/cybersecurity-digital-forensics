@@ -348,7 +348,7 @@ Welcome to the world of digital forensics in Cybersecurity.
 -   Download an entire website from the Wayback Machine,
     [github.com/hartator/wayback-machine-downloader](https://github.com/hartator/wayback-machine-downloader)
 
-# Miscellaneous
+## Miscellaneous
 -   Check for collaborative fact-checking, [checkmedia.org](http://www.checkdesk.org) 
 
 -   Link to [user
@@ -396,7 +396,7 @@ Welcome to the world of digital forensics in Cybersecurity.
     area,
     [zoopla.co.uk](https://www.zoopla.co.uk/) 
 
-# Guides and handbooks
+## Guides and handbooks
 -   Bellingcat’s resources,
     [www.bellingcat.com/category/resources/how-tos](http://www.bellingcat.com/category/resources/how-tos/),
     for example:
@@ -426,7 +426,7 @@ Welcome to the world of digital forensics in Cybersecurity.
     graphically on a map format,
     [itrace.conflictarm.com](http://itrace.conflictarm.com/Home/Login) 
 
-# Data visualization
+## Data visualization
 -   DataBasic.io, web tools for beginners that introduce concepts of
     working with data,
      [databasic.io/en](https://www.databasic.io/en/) 
@@ -440,7 +440,7 @@ Welcome to the world of digital forensics in Cybersecurity.
 -   RAWGraphs, free webtool to quickly visualize your data,
     [app.rawgraphs.io](http://app.rawgraphs.io/)
 
-# Online security and privacy
+## Online security and privacy
 -   Check for every digital service you use whether you have enabled two
     factor authentication (2FA),
     [twofactorauth.org](https://twofactorauth.org/) 
