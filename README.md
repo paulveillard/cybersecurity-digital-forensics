@@ -308,6 +308,7 @@ Welcome to the world of digital forensics in Cybersecurity.
 -   IXMaps,[IXMaps](https://www.ixmaps.ca/explore.php)
 -   [Network-Tools](http://network-tools.com/)
 -   [Open Site Explorer](http://www.opensiteexplorer.org/)
+    [Maltego](https://www.maltego.com/)
 
 ##   People search
 -   Peekyou,
